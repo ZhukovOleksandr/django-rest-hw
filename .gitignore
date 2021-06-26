@@ -1,0 +1,17 @@
+# Files and folders included to this file would not be added to the repo
+
+# virtual environment
+/venv/
+/env/
+
+# python cache
+__pycache__
+
+# idea configs
+/.vscode/
+/.idea/
+
+
+# temporary files storage
+/temp/
+/tmp/
